@@ -1,12 +1,12 @@
-# ImNotGoodAtDrawingButTracing
+# Tracer
  난 그림은 못그리지만 트레이싱은 잘하지
 
 ## 프로그램 설명
- ImNotGoodAtDrawingButTracing은 트레이싱을 도와주는 프로그램입니다.   
+ Tracer는 트레이싱을 도와주는 프로그램입니다.   
  원하는 이미지를 반투명하게 보이게 만들고,   
  그림판, 그림 퀴즈 게임 등 위에 이 프로그램을 올리고 그림을 따라 그릴 수 있습니다.
  
- **이 프로그램을 사용하여 일어난 일에 대한 아무런 책임을 지지 않습니다.**
+ **이 프로그램을 사용하여 일어난 일에 대한 어떤 책임도 지지 않습니다.**
 
 ## 사용 방법
 
@@ -26,10 +26,5 @@ Caps Lock키를 눌려진 상태로 바꾸면, 프로그램 창이 반투명해�
 이제 이 프로그램을 사용해서 이미지를 트레이싱 할 수 있습니다.
 
 다시 Caps Lock 키를 눌러 눌려지지 않은 상태로 바꾸면 이미지를 변경하거나, 프로그램을 종료할 수 있습니다.
-
-- [마우스 입력 무시 코드](https://stackoverflow.com/questions/11077236/transparent-window-layer-that-is-click-through-and-always-stays-on-top)
-- [키보드 후킹 (캡스락 입력 인식)](https://kjun.kr/1035)
-- [캡스락 확인](https://inasie.tistory.com/9)
-- https://github.com/choshinyoung/ImNotGoodAtDrawingButCoding
 
 - <a href="https://iconscout.com/icons/pencil" target="_blank">Pencil Icon</a> by <a href="https://iconscout.com/contributors/oviyan%22%3EThanga Vignesh P</a> on <a href="https://iconscout.com/%22%3EIconscout</a> *(쓰라고 해서 그대로 복붙한거임)*
