@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.ImagePathLabel = new System.Windows.Forms.Label();
             this.ImageFileTextBox = new System.Windows.Forms.TextBox();
             this.FindImageButton = new System.Windows.Forms.Button();
@@ -62,7 +61,7 @@
             // FindImageButton
             // 
             this.FindImageButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.FindImageButton.Location = new System.Drawing.Point(543, 10);
+            this.FindImageButton.Location = new System.Drawing.Point(542, 10);
             this.FindImageButton.Name = "FindImageButton";
             this.FindImageButton.Size = new System.Drawing.Size(75, 23);
             this.FindImageButton.TabIndex = 2;
@@ -131,6 +130,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(737, 641);
             this.Controls.Add(this.LoadFileImage);
             this.Controls.Add(this.LoadUrlImageButton);
@@ -140,11 +140,11 @@
             this.Controls.Add(this.FindImageButton);
             this.Controls.Add(this.ImageFileTextBox);
             this.Controls.Add(this.ImagePathLabel);
-            this.Font = new System.Drawing.Font("굴림", 9F);
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.MinimumSize = new System.Drawing.Size(400, 400);
             this.Name = "Form1";
-            this.Text = "난 그림은 못그리지만 트레이싱은 잘하지";
+            this.ShowIcon = false;
+            this.Text = "Tracer";
             this.TransparencyKey = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             ((System.ComponentModel.ISupportInitialize)(this.ImageBox)).EndInit();
             this.ResumeLayout(false);
