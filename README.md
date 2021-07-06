@@ -27,4 +27,4 @@ Caps Lock키를 눌려진 상태로 바꾸면, 프로그램 창이 반투명해�
 
 다시 Caps Lock 키를 눌러 눌려지지 않은 상태로 바꾸면 이미지를 변경하거나, 프로그램을 종료할 수 있습니다.
 
-[Pencil Icon](https://iconscout.com/icons/pencil) Thanga Vignesh P on Iconscout
+[Pencil Icon](https://iconscout.com/icons/pencil) by Thanga Vignesh P on Iconscout
